@@ -43,6 +43,6 @@ The logistic regression model used in this project is defined in the `credit_sco
 
 ## Author
 
-* Aime BAMBARINKENGA - baaime98@gmail.com
+* Aime BAMBARINKENGA - baaime98@gmail.com | aimeb@andrew.cmu.edu
 
 
